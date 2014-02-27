@@ -1,4 +1,4 @@
 basitIosUygulama1
 =================
 
-Objective C simple game application
+Objective C simple game application example.
